@@ -1,5 +1,7 @@
-Real-Time GPS Tracking with Live Route Simulation
-=================================================
+Real-Time GPS Tracking with Live Route Simulation by Rahul Kolli
+=================================================================
+
+NOTE: Resume inside the project directory
 
 🚀 Project Overview
 -------------------
